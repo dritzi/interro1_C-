@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1518768472 source:c:\users\adai09\documents\cours c++\exercices\interro1_c++\src\casino.cpp
+	"casino.h"
+
+1518785420 c:\users\adai09\documents\cours c++\exercices\interro1_c++\include\casino.h
+	<joueur.h>
+
+1518785714 c:\users\adai09\documents\cours c++\exercices\interro1_c++\include\jeu.h
+
+1518768611 source:c:\users\adai09\documents\cours c++\exercices\interro1_c++\src\jeu.cpp
+	"jeu.h"
+
+1518776156 source:c:\users\adai09\documents\cours c++\exercices\interro1_c++\src\joueur.cpp
+	"joueur.h"
+
+1518786318 c:\users\adai09\documents\cours c++\exercices\interro1_c++\include\joueur.h
+
+1518773140 source:c:\users\adai09\documents\cours c++\exercices\interro1_c++\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<vector>
+	<stdlib.h>
+	<jeu.h>
+	<casino.h>
+
